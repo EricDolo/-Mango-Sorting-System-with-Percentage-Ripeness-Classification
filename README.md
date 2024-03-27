@@ -13,5 +13,5 @@ The Mango Sorting System with Percentage Ripeness Classification project aims to
 
 ## Problem Statements: 
 - Mango ripeness is a difficult concept for manual sorting methods in the fruit sector, which makes product quality and customer satisfaction inconsistent.
-- Divergences in the degree of ripeness can lead to bad tasting sensations, shortened shelf lives, and substantial spoiling waste.
+- Divergences in the degree of ripeness can lead to bad tasting sensations, shortened shelf lives, and substantial spoiling wastage.
 - The fruit business is in dire need of effective fruit sorting technologies to maximise productivity, reduce waste, and raise overall profitability.
